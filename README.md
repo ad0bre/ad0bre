@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Andrei Dobre👋</h1>
 
-<h3 align="center">Cloud Computing & IoT Master's Student · Teaching Assistant · Full-Stack & Embedded Developer</h3>
+<h3 align="center">Software Engineer · Cloud Computing & IoT Master's Student · Teaching Assistant</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Timișoara%2C%20Romania-informational?style=flat-square" />
@@ -94,8 +94,13 @@
 - Cloud-native fundamentals: CI/CD, Docker, Azure, IaC with Terraform
 - Designing systems for scalability and security
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ad0bre&show_icons=true&theme=default" alt="ad0bre's GitHub stats" />
+### 📫 Contact
+ 
+<p>
+  <a href="https://www.linkedin.com/in/andrei-dobre02" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:andrei.lucian.dobre02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-andrei.lucian.dobre02@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
